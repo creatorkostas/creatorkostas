@@ -1,9 +1,25 @@
-### Hi there 👋
+
+### Hi there 👋 My name is Konstantinos Mokas
+
+I study Information and Electronic Engineering in IHU
+
+🌍 I live in Thessaloniki<br>
+📫 You can reach me in [kostasmokas12@gmail.com](mailto:kostasmokas12@gmail.com) or in my socials<br>
+<p align="center">
+  <a href="https://github.com/creatorkostas">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p><br>
+
+<p align="center">
+  <a href="https://github.com/creatorkostas">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,django,arduino,linux,git,ps" />
+  </a>
+</p><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatorkostas&layout=compact&theme=city_lights)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**creatorkostas/creatorkostas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
