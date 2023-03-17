@@ -11,7 +11,7 @@ I study Information and Electronic Engineering in IHU
   </a>
 </p><br>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/creatorkostas">
     <img src="https://skillicons.dev/icons?i=py,java,c,cpp,html,css,js,django,arduino,linux,git,ps" />
   </a>
