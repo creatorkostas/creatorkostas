@@ -4,8 +4,8 @@
 I study Information and Electronic Engineering in IHU
 
 🌍 I live in Thessaloniki<br>
-📫 You can reach me in [kostasmokas12@gmail.com](mailto:kostasmokas12@gmail.com) or in my socials<br>
-<p align="center">
+📫 You can reach me in [kostasmokas12@gmail.com](mailto:kostasmokas12@gmail.com) or in my socials <br>
+<p align="left">
   <a href="https://github.com/creatorkostas">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
