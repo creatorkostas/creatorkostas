@@ -9,6 +9,9 @@ I study Information and Electronic Engineering in IHU
   <a href="https://github.com/creatorkostas">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="www.linkedin.com/in/konstantinos-mokas">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p><br>
 
 <p align="left">
